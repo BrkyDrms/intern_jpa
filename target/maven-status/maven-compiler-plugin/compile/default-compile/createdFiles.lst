@@ -1,0 +1,9 @@
+com\etiya\intern_jpa\entity\UserJpaEntity.class
+com\etiya\intern_jpa\controller\UserJpaController.class
+com\etiya\intern_jpa\InternJpaApplication.class
+com\etiya\intern_jpa\config\JpaConfig.class
+com\etiya\intern_jpa\service\impl\UserJpaService.class
+com\etiya\intern_jpa\repository\UserJpaRepository.class
+com\etiya\intern_jpa\entity\datatransfer\UserJpaDataTransfer.class
+com\etiya\intern_jpa\service\IUserJpaService.class
+com\etiya\intern_jpa\converter\UserJpaConverter.class

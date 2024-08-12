@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.etiya</groupId>
-	<artifactId>intern</artifactId>
+	<artifactId>intern_jpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>intern</name>
 	<description>İntern Etiya project for Spring Boot</description>
